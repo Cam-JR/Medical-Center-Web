@@ -1,6 +1,8 @@
 # Página Web para Centro Médico
 
-Este proyecto es una página web básica para un centro médico. Permite a los usuarios enviar consultas mediante un formulario. Las consultas son almacenadas en una base de datos MySQL.
+Este proyecto es una página web básica para un centro médico. 
+Permite a los usuarios enviar consultas mediante un formulario. 
+Las consultas son almacenadas en una base de datos MySQL.
 
 ## 🛠 Tecnologías utilizadas
 
@@ -22,13 +24,14 @@ Este proyecto es una página web básica para un centro médico. Permite a los u
 - Navegador web
 - Editor de código (Visual Studio Code, Sublime, etc.)
 
+## 📦 Base de datos
+
+El archivo `database/medical_center.sql` contiene la estructura de la base de datos (y datos de prueba).  
+Puedes importarlo en phpMyAdmin para ejecutar el proyecto correctamente.
 
 ## Vista previa
 
 ![Captura del formulario](img/captura.png)
 
 
-## 📦 Base de datos
-
-El archivo `database/medical_center.sql` contiene la estructura de la base de datos (y datos de prueba).  
-Puedes importarlo en phpMyAdmin para ejecutar el proyecto correctamente.
+ 
